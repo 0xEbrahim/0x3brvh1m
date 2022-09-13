@@ -1,6 +1,7 @@
-### 💫 About Me:
- 🌱 I’m currently learning JavaScript & NodeJS<br><br>📫
- Contact me: elsayedebrahim603@gmail.com<br><br>
+# 💫 About Me:
+ ## 🌱 I’m currently learning JavaScript & NodeJS<br><br>📫Contact me: elsayedebrahim603@gmail.com<br><br>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
 
 
 ## 🌐 Socials:
@@ -23,4 +24,4 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=0x3brvh1m&icon=0&color=0)](https://visitcount.itsvg.in)
+
